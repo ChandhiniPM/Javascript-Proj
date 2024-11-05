@@ -1,2 +1,2 @@
 # Javascript-Proj
-Creating Javascript Projects
+Creating Javascript Projects to get familiar with the syntax
