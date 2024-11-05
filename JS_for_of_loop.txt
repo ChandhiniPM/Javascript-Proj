@@ -1,0 +1,12 @@
+let students = ['John','Bob','Pam','Sam'];
+for(let student of students)
+{
+    console.log("Student Name: -> ",student);
+}
+
+/** OUTPUT 
+Student Name: ->  John
+Student Name: ->  Bob
+Student Name: ->  Pam
+Student Name: ->  Sam* 
+*/
