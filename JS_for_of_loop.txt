@@ -10,3 +10,16 @@ Student Name: ->  Bob
 Student Name: ->  Pam
 Student Name: ->  Sam* 
 */
+
+const spaceMissions = ['Apollo', 'Shuttle', 'Soyuz', 'Artemis', 'Dragon'];
+
+for (let mission of spaceMissions) {
+    console.log(mission + ' mission to space');
+}
+/** OUTPUT
+Apollo mission to space
+Shuttle mission to space
+Soyuz mission to space
+Artemis mission to space
+Dragon mission to space
+*/
