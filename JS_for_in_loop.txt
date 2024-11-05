@@ -1,0 +1,16 @@
+//Iteration using for - in loop to iterate over properties inside Object
+let student ={
+name: "John",
+age:25,
+rollno:123
+}
+for(let property in student)
+{
+console.log(property ,"->",student[property]);
+}
+
+/**output:
+name -> John
+age -> 25
+rollno -> 123
+*/
